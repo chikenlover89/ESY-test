@@ -1,0 +1,1 @@
+INSERT INTO synDB.users (id, user, password) VALUES (1, 'admin', 'admin');
